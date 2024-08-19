@@ -1,5 +1,6 @@
 from constants import *
 import pygame
+from player import Player
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
 def main():
